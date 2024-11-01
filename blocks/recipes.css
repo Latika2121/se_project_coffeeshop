@@ -24,6 +24,7 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  max-width: 438px;
 }
 
 .recipes__iframe {
